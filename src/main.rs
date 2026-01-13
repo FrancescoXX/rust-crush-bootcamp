@@ -3,7 +3,7 @@
 // You can run this with `cargo run`
 
 /*
-    Our learning snippets will be in the `examples` directory.
+    Our learning snippets will be in the `src/bin` directory.
     You can run them one by one like this:
     
     cargo run --bin <example_filename>
